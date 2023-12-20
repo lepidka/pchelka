@@ -1,0 +1,87 @@
+header {
+    border: 1px solid yellow;
+    background-color: orange;
+    height: 120px;
+    width: 1900px;
+}
+.hover {
+    font-size: 50px;
+}
+
+.block {
+    margin: 20px 0px 20px 20px;
+}
+
+.y {
+    text-align: center;
+    margin-top: 45px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    text-align: right;
+    margin-right: 200px;
+    font-size: 25px;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: rgb(58, 101, 156);
+}
+
+.img1 {
+    margin-top: 50px;
+    width: 1900px;
+}
+.right {
+    margin-left: 20px;
+    padding: 50px;
+}
+
+main {
+    display: flex;
+    width: 1900px;
+}
+
+.left {
+    width: 900px;
+    padding: 50px;
+}
+
+footer{
+    height: 80px;
+    text-align: center;
+}
+
+p {
+    font-size: 22px;
+}
+
+.lor {
+    text-decoration:underline;
+    color: orange;
+}
+
+li {
+    color: orange;  
+    text-decoration:underline;
+    font-size: 20px;
+}
+
+.pos {
+    color: grey;
+}
+
+.read {
+    text-align: right;
+    color: orange;
+}
+
+ul {
+    list-style-image: url('../img/li.gif');
+}
+
+.term {
+    font-size: 60px;
+}
